@@ -229,7 +229,7 @@ layout: default
               </div>
             {% endif %}
 
-            <!-- Devbae Name -->
+            <!-- Default Admin Name -->
             <div class="author__content">
               <h3 class="author__name" itemprop="name">{{ author_details.name }}</h3>
               
@@ -361,8 +361,8 @@ layout: default
     <div id="sidebar">
       <div class="sidebar-author-details">
         <!-- No Page Author -->
-        <!-- This block shows that it is devbae written article so add that from there -->
-        {% assign author_details = site.data.authors['DevBae'] %}
+        <!-- This block shows that it is admin written article so add that from there -->
+        {% assign author_details = site.data.authors['main.whi.hoon'] %}
 
         {% if author_details.avatar and author_details.avatar != "" %}
           <!-- Image URL -->
@@ -372,7 +372,7 @@ layout: default
           </div>
         {% endif %}
 
-        <!-- Devbae Name -->
+        <!-- Default Admin Name -->
         <div class="author__content">
           <h3 class="author__name" itemprop="name">{{ author_details.name }}</h3>
           

@@ -1,6 +1,6 @@
-# [Devbae](https://devbae.tech/) - Technology Made Easy!
+# [main.whi.hoon](https://mainwhihoon.in/) - Travel, Explore, Dream!
 
-[Devbae](https://devbae.tech/) is a tech blogging website to share knowledge about all the latest technology, tech stacks and frameworks. This blog is developed using [Jekyll](https://jekyllrb.com/).
+[main.whi.hoon](https://mainwhihoon.in/) is a travel blogging/portfolio website to share travel blogs, tutorials and my journals. This blog is developed using [Jekyll](https://jekyllrb.com/).
 
 ## Setting up the app
 
@@ -41,17 +41,16 @@
 
 ## Submitting a Blog [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](.github/CONTRIBUTING.md).
 
-You can read about how to submit a blog here on our [contribution page](.github/CONTRIBUTING.md). Or you can directly mail your articles directly to us at <contact@devbae.tech>.
+You can read about how to submit a blog here on our [contribution page](.github/CONTRIBUTING.md). Or you can directly mail your articles directly to us at <hello@mainwhihoon.in>.
 
-## Bugs, Issues and Corrections [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/devbae/devbae-blog/issues)
+## Bugs, Issues and Corrections [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/aashish-ak/main.whi.hoon/issues)
 
-Found any bug in the app? Or any suggestions or corrections in our blogs? [Open a new issue](https://github.com/devbae/devbae-blog/issues) here on GitHub!
+Found any bug in the website? Or any suggestions or corrections in my blogs? [Open a new issue](https://github.com/aashish-ak/main.whi.hoon/issues) here on GitHub!
 
 ## About
 
-You can know all about us [here](https://devbae.tech/about).\
-Devbae is currently maintained by our **[members](https://github.com/orgs/devbae/people)**.
+You can know all about me [here](https://mainwhihoon.in/about).
 
 ## Copyright and License
 
-Copyright 2020 DevBae. Code released under the [MIT](https://github.com/devbae/devbae-blog/blob/gh-pages/LICENSE) license.
+Copyright 2022 main.whi.hoon Code released under the [MIT](https://github.com/aashish-ak/main.whi.hoon/blob/gh-pages/LICENSE) license.
